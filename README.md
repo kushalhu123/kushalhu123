@@ -1,7 +1,7 @@
 <h1> Kushal HU :smile: </h1>
 <h4> HEY, HERE IS WHAT I AM WORKING ON 👋 </h4>
 
-I am a pre final year student at [Vidyavardhaka College of Engineering](https://vvce.ac.in/), Mysore, pursuing Bachelor of Engineering (Computer Science Engineering).
+I am a pre final year student at [Vidyavardhaka College of Engineering](https://vvce.ac.in/), Mysore  pursuing Bachelor of Engineering (Computer Science Engineering).
 
 <h3>I have been Selected for DevIncept Training for NLP and CV</h3>
 
