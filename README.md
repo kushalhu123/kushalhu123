@@ -7,13 +7,13 @@ I am a pre final year student at [Vidyavardhaka College of Engineering](https://
 
 ![DevIncept Training](Devincept.gif)
 
-
+[![DevIncept logo image link](extras/logo.gif)](https://devincept.tech/)
 
 - 🔭 I’m currently working on Data Science and Machine Learning.
 - 🌱 I’m currently learning Natural language processing and Computer Vision.
 - 👯 I’m looking to collaborate on Open source projects in the domains of Python, Machine Learning and Data Science.
 - 💬 Ask me about: Literally anything. Be it about Programming languages, Movies, Databases, Politics, Cricket,Machine Learning and Data Science.
-- 📫 How to reach me: ![[Gmail](hukushal@gmail.com)](linkedin.png) | ![[LinkedIn](https://www.linkedin.com/in/kushal-hu-0bb3351a7/)](Gmail.png)
+- 📫 How to reach me: [![Gmail](Gmail.png)](hukushal@gmail.com) | [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/kushal-hu-0bb3351a7/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If Nothing goes Right,Please Take a U-TURN.:heart:
 - :bowtie: :Hobbies: :video_game: Video gaming,🏏:Cricket 📷:photography.
