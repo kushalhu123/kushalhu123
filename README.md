@@ -2,7 +2,9 @@
 # HEY, HERE IS WHAT I AM WORKING ON 👋
 
 I am a pre final year student at [Vidyavardhaka College of Engineering](https://vvce.ac.in/), Mysore, pursuing Bachelor of Engineering (Computer Science Engineering).
-I have been Selected for DevIncept Training for NLP and CV.
+
+<h3>I have been Selected for DevIncept Training for NLP and CV</h3>
+
 
 
 
