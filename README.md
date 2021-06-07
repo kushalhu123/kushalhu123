@@ -7,7 +7,6 @@ I am a pre final year student at [Vidyavardhaka College of Engineering](https://
 
 ![DevIncept Training](Devincept.gif)
 
-[![DevIncept logo image link](extras/logo.gif)](https://devincept.tech/)
 
 - 🔭 I’m currently working on Data Science and Machine Learning.
 - 🌱 I’m currently learning Natural language processing and Computer Vision.
